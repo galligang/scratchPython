@@ -1,2 +1,2 @@
 # scratchPython
-Scratch Workspace for learning pythin
+Scratch Workspace for learning python
